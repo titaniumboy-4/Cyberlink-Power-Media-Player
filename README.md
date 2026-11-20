@@ -193,3 +193,6 @@ This repository serves as the official landing page for CyberLink Power Media Pl
 - 💬 **[Community](https://oqoaj.berga.top/about-us/)**
 ---
 **Get the most recent version of CyberLink Power Media Player today!**
+
+---
+**Last updated:** 2026-11-20 12:38:35 UTC

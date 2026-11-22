@@ -195,4 +195,4 @@ This repository serves as the official landing page for CyberLink Power Media Pl
 **Get the most recent version of CyberLink Power Media Player today!**
 
 ---
-**Last updated:** 2026-11-21 22:55:26 UTC
+**Last updated:** 2026-11-22 02:54:53 UTC
